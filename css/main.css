@@ -1,0 +1,81 @@
+
+body {
+    background-color: #e2cdcd;
+    color: #454343;
+    margin: 20px;
+}
+
+/* paragraph style */
+p {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    line-height: 1.6;
+}
+
+/* heading style */
+h1, h2, h3 {
+    font-family: Georgia, "Times New Roman", serif;
+    color: #2c3e50;
+}
+
+/* link styles */
+a:link {
+    color: blue;
+    background-color: #e8f0ff;
+}
+
+a:visited {
+    color: purple;
+    background-color: #f3e8ff;
+}
+
+a:hover {
+    color: white;
+    background-color: #2c3e50;
+}
+
+a:active {
+    color: white;
+    background-color: red;
+}
+
+/* sections on about me and more about me pages */
+.about-page section,
+.more-about-page section {
+    padding: 20px;
+    margin-bottom: 20px;
+    border: 2px solid #777777;
+}
+
+/* background section on about me page */
+#my_background {
+    background-color: #e0f7fa;
+}
+
+/* interests section on about me page */
+#my_interests {
+    background-color: #fff9c4;
+}
+
+/* h2 inside sections on about me page */
+.about-page section h2 {
+    color: #00695c;
+}/* Styles for topic_of_interest.html */
+
+#swap_image {
+    width: 300px;
+}
+
+#moving_box {
+    position: relative;
+    width: 120px;
+    padding: 20px;
+    margin-top: 20px;
+    border: 2px solid black;
+    text-align: center;
+}
+
+button {
+    margin: 10px 0;
+    padding: 8px 12px;
+}
