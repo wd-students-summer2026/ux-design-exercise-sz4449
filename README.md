@@ -100,3 +100,5 @@ You are now ready to submit this assignment. You can do so directly from Visual 
 You have now submitted your completed assignment. Your changes are now posted to GitHub.com, where the instructor and graders can access it. Your `settings.json` file has information about who you are and where we can view your page on the web.
 
 You can verify all this yourself manually by visiting your repository on GitHub.com and making sure the code displayed there is what you submitted.
+## Wireframe Diagrams and Site Map
+[View my public Figma wireframe diagrams and site map here](https://www.figma.com/design/a0lwxb59o5dJFpJdTdax21/Untitled?node-id=0-1&t=IbIUf0lLpQNpaZIe-0)
